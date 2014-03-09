@@ -13,24 +13,9 @@ Camouflage
 
 ### Description ###
 
-Camouflage ModThis Modification was an idea of ParrotProductions, this is how he suggested me to make it:
+Camouflage Mod was an idea of ParrotProductions:
 
->[![redirect](http://static.minecraftforum.net//public/style_images/mcf/snapback.png)](http://www.minecraftforum.net/index.php?app=forums&module=forums&section=findpost&pid=29222190) Hey SackCastellon! i was wondering if u could make a mc 1.6.4 mod for everybody ( forge)
-
->Mod Name: Camouflage mod
-
-
->aurmor: camo chest,legs,boots,etc.
-  desert camo, forest camo, jungle camo, and plains camo aurmor
-
-blocks: camouflage block,
-
-food: camouflage apple, camo steak, camouflage golden apple xD
-
-tools: camo sword, shovel, etc.
-
-Plz reply and tell me if ur making da mod! ty! Posted Image Posted Image Posted Image Posted Image Posted Image Posted Image Posted Image Posted Image Posted Image Posted Image Posted Image
-[/quote]
+>[Post of the idea](http://www.minecraftforum.net/index.php?app=forums&module=forums&section=findpost&pid=29222190)
 
 This Mod works by the following way, you have to create the basic camouflage (block), which is made of leaves (any type), and departing form that block you can create camouflages for different biomes, by using the "main" block on the biome (e.g.: to create the camouflage of the desert you will need some sand block)
 
