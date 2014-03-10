@@ -1,0 +1,44 @@
+itemGroup.Camouflage=Camouflage Mod
+
+tile.camo_leaves.name=Leaves Camouflage Block
+tile.camo_dirt.name=Dirt Camouflage Block
+tile.camo_stone.name=Stone Camouflage Block
+tile.camo_sand.name=Desert Camouflage Block
+tile.camo_water.name=Water Camouflage Block
+tile.camo_ice.name=Ice Camouflage Block
+
+item.camo_sword.name=Camouflaged Sword
+item.camo_shovel.name=Camouflaged Shovel
+item.camo_pickaxe.name=Camouflaged Pickaxe
+item.camo_axe.name=Camouflaged Axe
+item.camo_hoe.name=Camouflaged Hoe
+
+item.camo_helmet.name=Leaves Camouflage Helmet
+item.camo_chestplate.name=Leaves Camouflage Chestplate
+item.camo_leggings.name=Leaves Camouflage Leggings
+item.camo_boots.name=Leaves Camouflage Boots
+
+item.dirt_camo_helmet.name=Dirt Camouflage Helmet
+item.dirt_camo_chestplate.name=Dirt Camouflage Chestplate
+item.dirt_camo_leggings.name=Dirt Camouflage Leggings
+item.dirt_camo_boots.name=Dirt Camouflage Boots
+
+item.stone_camo_helmet.name=Stone Camouflage Helmet
+item.stone_camo_chestplate.name=Stone Camouflage Chestplate
+item.stone_camo_leggings.name=Stone Camouflage Leggings
+item.stone_camo_boots.name=Stone Camouflage Boots
+
+item.desert_camo_helmet.name=Desert Camouflage Helmet
+item.desert_camo_chestplate.name=Desert Camouflage Chestplate
+item.desert_camo_leggings.name=Desert Camouflage Leggings
+item.desert_camo_boots.name=Desert Camouflage Boots
+
+item.ocean_camo_helmet.name=Water Camouflage Helmet
+item.ocean_camo_chestplate.name=Water Camouflage Chestplate
+item.ocean_camo_leggings.name=Water Camouflage Leggings
+item.ocean_camo_boots.name=Water Camouflage Boots
+
+item.ice_camo_helmet.name=Ice Camouflage Helmet
+item.ice_camo_chestplate.name=Ice Camouflage Chestplate
+item.ice_camo_leggings.name=Ice Camouflage Leggings
+item.ice_camo_boots.name=Ice Camouflage Boots
