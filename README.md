@@ -3,7 +3,7 @@ Camouflage
 
 ### Links of Interest ###
 
-- [Minecraft Forum Thread](http://www.minecraftforum.net/topic/)
+- [Minecraft Forum Thread](http://www.minecraftforum.net/topic/2467609-)
 - [Official Wiki](https://github.com/SackCastellon/Camouflage/wiki) (Under Construction)
 - [Issue Tracking System](https://github.com/SackCastellon/Camouflage/issues)
 - [Source Code](https://github.com/SackCastellon/Camouflage)
@@ -27,7 +27,7 @@ This Mod works by the following way, you have to create the basic camouflage (bl
 
 ![License](http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png)
 
-[Camouflage Mod](http://www.minecraftforum.net/topic/) by [SackCastellon](http://www.minecraftforum.net/user/1775848-sackcastellon/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+[Camouflage Mod](http://www.minecraftforum.net/topic/2467609-) by [SackCastellon](http://www.minecraftforum.net/user/1775848-sackcastellon/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 #### Mod Packs ####
 
